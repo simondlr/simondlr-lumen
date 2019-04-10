@@ -3,9 +3,9 @@
 module.exports = {
   url: 'https://blog.simondlr.com',
   title: 'Blog by Simon de la Rouviere',
-  subtitle: 'simondlrblog',
+  subtitle: '',
   copyright: '© All rights reserved [unless specified otherwise].',
-  disqusShortname: '',
+  disqusShortname: 'simondlrblog',
   postsPerPage: 8,
   googleAnalyticsId: 'UA-56753746-2',
   menu: [
