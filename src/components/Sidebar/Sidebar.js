@@ -18,7 +18,7 @@ export const PureSidebar = ({ data, isIndex }) => {
       <div className={styles['sidebar__inner']}>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
-        Stay in touch with 300+ others with my newsletter! I only send updates on new content. <a href="https://upscri.be/94bbf3/">https://upscri.be/94bbf3/</a><br />
+        Stay in touch with my newsletter! I only send updates on new content. <a href="https://upscri.be/94bbf3/">https://upscri.be/94bbf3/</a><br />
         <br />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
