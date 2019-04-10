@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: simondlr/simondlr-lumen
 
 media_folder: "static/media"
 public_folder: "/media"
