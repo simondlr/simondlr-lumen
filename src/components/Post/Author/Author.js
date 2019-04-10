@@ -16,8 +16,9 @@ export const PureAuthor = ({ data }) => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          <strong>{author.name}</strong> on Twitter
-        </a>
+          <strong>{author.name}</strong> on Twitter.
+        </a><br />
+        Stay in touch with my newsletter! I only send updates on new content. <a href="https://upscri.be/94bbf3/">https://upscri.be/94bbf3/</a>
       </p>
     </div>
   );
