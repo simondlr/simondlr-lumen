@@ -113,8 +113,6 @@ It's hard to do this in practice & the real world, because the cost to enforce t
 
 Recently in the blockchain space, collectibles have become popular with the establishment of new standards and products. Most popular recently were the explosion of CryptoKittes: tradable, breed-able cats on the blockchain.
 
-
-
 ![I named all my CryptoKitties variations of KET. I was trying to breed derpy cats.](/media/1_hivjlz8kmxhfxsejcqvmsg.png)
 
 Due to the property system of these collectible cats, they are inert on the blockchain. My cats I bred in January (various cats called derivatives of KET), are sitting idly in the Ethereum blockchain. They are ready to breed, but just wasting away their digital lives.
@@ -183,7 +181,9 @@ One wouldn't be remiss to about how new markets also allow new art by itself. Wh
 
 As an experiment, I first proposed the idea of doing a pixel map akin to Reddit's r/place or the original million dollar homepage as Harberger property rights.
 
-https://www.reddit.com/r/placeFor #EthSanFrancisco, and Ethereum hackathon, I proposed as a judge, this is one of the ideas I'd like to see built. During that time, two teams built a Harberger Pixel Map.
+For #EthSanFrancisco, and Ethereum hackathon, I proposed as a judge, this is one of the ideas I'd like to see built. During that time, two teams built a Harberger Pixel Map.
+
+https://www.reddit.com/r/place
 
 ![](/media/1_z8_rqpdh6tw413lran7-a.png)
 
@@ -243,7 +243,9 @@ https://medium.com/@gagevalentino/how-to-fix-the-music-business-invest-in-the-su
 
 ![](/media/0_c2xwgmgphqkmv_if.png)
 
-Dynamic Pricing For Media Access & Consumption: A Curved Bonding Example: https://docs.google.com/document/d/1c-cpE6O2L03Hg_Vvup8Jr4OkNhu1WzRJKeftLepNHgo/edit.Liberal Radicalism & Compression Funding
+Dynamic Pricing For Media Access & Consumption: A Curved Bonding Example: https://docs.google.com/document/d/1c-cpE6O2L03Hg_Vvup8Jr4OkNhu1WzRJKeftLepNHgo/edit.
+
+**Liberal Radicalism & Compression Funding**
 
 Related to funding of the arts in Radical Markets is a new concept called "Liberal Radicalism" (LR). It is a recent proposal from Glen Weyl, Vitalik Buterin & Zoey Hitzig that explores the usage of "Quadratic Voting" (QV) systems towards funding public goods.
 
@@ -306,8 +308,6 @@ In other industries, you find the same thing: Marvel's rise to prominence is a s
 > "Hollywood, like other entertainment industries in the era of big data, is better than ever at figuring out how to give audiences exactly what we say we want." via 
 >
 > [The Atlantic](https://www.theatlantic.com/entertainment/archive/2014/05/hollywoods-real-superhero-problem/370785/)
->
->
 
 We've become victims of a dearth of creativity because the funders have found themselves in a place where they fund the safe bets: over and over. It's not that superhero movies are bad. I loved a host of Marvel's recent films, but again: isn't it it perhaps the lowest common denominator of film? I'm fine eating lightly salted chips if that's what makes everyone happy at the party, but damn, I'd really love some hot Cheetos too. So would many others.
 
