@@ -29,6 +29,7 @@ const Post = ({ post }) => {
         <Meta date={date} />
         <Tags tags={tags} tagSlugs={tagSlugs} />
         <Author />
+        <upscribe src="https://upscri.be/94bbf3"></upscribe>
       </div>
 
       <div className={styles['post__comments']}>

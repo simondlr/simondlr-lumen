@@ -3,10 +3,46 @@ title: "About me"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I'm a creator, learning to tell stories.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Currently: Exploring rabbit holes. Tinkering.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+### I code: 
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+A full-stack developer. Coded games in high school, websites in university & blockchains since 2013.
+
+I co-designed the ERC20 Ethereum Token standard.
+
+https://github.com/simondlr
+
+### I write:
+
+I share ideas & write on life. Learning to write more.
+
+2019 -> 2019: here.  
+2015 -> 2019: http://medium.com/@simondlr  
+2012 -> 2015: http://simondlr.com/archive [tumblr]  
+
+Wrote two book drafts about blockchain technology in 2014/2015, but never published it. Still available to read online: https://github.com/simondlr/computingcommons
+
+### I make music.
+
+Generally electro-pop.
+
+https://ujomusic.com/portal/musicgroup/1   
+https://soundcloud.com/simon-segfault   
+https://clyp.it/user/qzsk2zuo   
+
+### I make art.
+
+https://thisartworkisalwaysonsale.com/
+
+### I take photos.
+
+Learning to tell stories with my Ricoh GRII.
+
+https://www.instagram.com/simondlr/
+
+### I research.
+
+I pioneered the field of Curation Markets & invented the token bonding curve. Generally my passion in research lies in understanding how economics, technology & people work together to coordinate.
