@@ -11,7 +11,7 @@ description: >-
   fund & create new markets in the arts will not just allow humanity to
   experience more of the meaningful moments attached to it, but also be an
   imperative for where we are headed as a society.
-category: LONGFORM
+category: IDEAS
 tags:
   - art
   - radical markets
