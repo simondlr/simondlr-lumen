@@ -14,7 +14,7 @@ description: >-
   a relative cost to efficiency in investment returns, it reduces the prevalence
   of monopolies that exclude society from an asset’s wealth generating
   capabilities.
-category: ECONOMICS
+category: IDEAS
 tags:
   - blockchain
   - economics
