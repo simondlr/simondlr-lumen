@@ -57,7 +57,7 @@ In short, when owning the assets, you have to self-assess its value, whereupon y
 
 For more information and some early iterations in thinking on how it could be applied to the blockchain and the arts can be found here:
 
-https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6
+https://blog.simondlr.com/harberger-tax-and-the-blockchain
 
 It gets particularly interesting when one combines these ideas with intellectual property ownership. It could re-imagine not just how intellectual property is allocated, but also re-imagine how we fund & create the arts.
 
