@@ -39,7 +39,7 @@ For example, when your partner is frustrated from an event at work, comes home, 
 
 This can be problematic if it creates an expectation and a normalisation that the partner owes it to the other partner. It neglects separating the individuals and the understanding that they are full and whole people themselves, first. This is potentially toxic if the one partner thrives on being a soother. This then becomes co-dependent: in desiring intimacy, the couple perpetuates negative behaviours of the other (sometimes completely unconsciously). The one partner thus becomes accustomed to requiring the other partner to be there for them to handle their own emotions. They are then more likely to unlearn being able to handle themselves on their own and the soother, desiring intimacy in exchange, is at beck and call, and thus over time loses their agency & control.
 
-Emotional Absence
+**Emotional Absence**
 
 On the other extreme, however, is the attitude that we shouldn't burden our partners with our emotions. We have to take control. It is our emotions, after all.
 
