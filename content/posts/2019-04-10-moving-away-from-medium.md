@@ -11,7 +11,7 @@ description: >-
   have over 8000 followers on there. I wouldn't be the writer I am today without
   Medium. As I am shifting gears however, I'm looking to expand beyond Medium,
   for various reasons.
-category: WRITING
+category: PERSONAL
 tags:
   - writing
   - blogs
