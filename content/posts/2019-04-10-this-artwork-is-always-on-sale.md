@@ -61,7 +61,7 @@ There are many ways to repurpose Harberger Tax in the domains of the arts & inte
 
 I have written before on what Harberger Tax is and how it can be utilized in the blockchains industry and the arts.
 
-https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6 
+https://blog.simondlr.com/harberger-tax-and-the-blockchain
 
 https://medium.com/radicalxchange/radical-markets-in-the-arts-13c27d3b7283
 
