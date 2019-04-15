@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: about
+slug: pages/about
 draft: false
 ---
 I'm a creator, learning to tell stories.
