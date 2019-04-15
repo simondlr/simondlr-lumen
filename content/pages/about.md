@@ -14,15 +14,15 @@ A full-stack developer. Coded games in high school, websites in university & blo
 
 I co-designed the ERC20 Ethereum Token standard.
 
-https://github.com/simondlr
+https://github.com/simondlr  
 
 ### I write:
 
 I share ideas & write on life. Learning to write more.
 
-2019 -> 2019: here.\
-2015 -> 2019: http://medium.com/@simondlr\
-2012 -> 2015: http://simondlr.tumblr.com/archive \[tumblr]  
+2019 -> 2019: here.  \
+2015 -> 2019: http://medium.com/@simondlr  \
+2012 -> 2015: http://simondlr.tumblr.com/archive \[tumblr]    
 
 Wrote two book drafts about blockchain technology in 2014/2015, but never published it. Still available to read online: https://github.com/simondlr/computingcommons
 
@@ -30,8 +30,8 @@ Wrote two book drafts about blockchain technology in 2014/2015, but never publis
 
 Generally electro-pop.
 
-https://ujomusic.com/portal/musicgroup/1\
-https://soundcloud.com/simon-segfault\
+https://ujomusic.com/portal/musicgroup/1  \
+https://soundcloud.com/simon-segfault  \
 https://clyp.it/user/qzsk2zuo   
 
 ### I make art.
