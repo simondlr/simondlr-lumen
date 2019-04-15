@@ -1,13 +1,14 @@
 ---
-title: "About me"
-template: "page"
+template: page
+title: About me
+slug: about
+draft: false
 ---
-
 I'm a creator, learning to tell stories.
 
 Currently: Exploring rabbit holes. Tinkering.
 
-### I code: 
+### I code:
 
 A full-stack developer. Coded games in high school, websites in university & blockchains since 2013.
 
@@ -19,9 +20,9 @@ https://github.com/simondlr
 
 I share ideas & write on life. Learning to write more.
 
-2019 -> 2019: here.  
-2015 -> 2019: http://medium.com/@simondlr  
-2012 -> 2015: http://simondlr.com/archive [tumblr]  
+2019 -> 2019: here.\
+2015 -> 2019: http://medium.com/@simondlr\
+2012 -> 2015: http://simondlr.tumblr.com/archive \[tumblr]  
 
 Wrote two book drafts about blockchain technology in 2014/2015, but never published it. Still available to read online: https://github.com/simondlr/computingcommons
 
@@ -29,8 +30,8 @@ Wrote two book drafts about blockchain technology in 2014/2015, but never publis
 
 Generally electro-pop.
 
-https://ujomusic.com/portal/musicgroup/1   
-https://soundcloud.com/simon-segfault   
+https://ujomusic.com/portal/musicgroup/1\
+https://soundcloud.com/simon-segfault\
 https://clyp.it/user/qzsk2zuo   
 
 ### I make art.
