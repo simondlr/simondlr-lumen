@@ -47,7 +47,7 @@ In Amar’s proposal, when electing legislative bodies, each seat is randomly al
 
 From Amar:
 
-> "Lottery voting would thus gradually integrate growing outgroups" into government and would avoid the problems of political "tipping" that now occur when a former minority reaches fifty-one percent of the total district population. "Moreover, because a solid majority in a given locality could not guarantee itself a perpetual monopoly on the district seat in the state legislature,"' it would have an incentive to treat the minority more kindly. The uncertainty of outcome that a lottery introduces is a check against injustice and self-interest, promoting more even-handed laws.”
+_"Lottery voting would thus gradually integrate growing outgroups" into government and would avoid the problems of political "tipping" that now occur when a former minority reaches fifty-one percent of the total district population. "Moreover, because a solid majority in a given locality could not guarantee itself a perpetual monopoly on the district seat in the state legislature,"' it would have an incentive to treat the minority more kindly. The uncertainty of outcome that a lottery introduces is a check against injustice and self-interest, promoting more even-handed laws.”_
 
 [David MacIver is a huge fan of random ballots](https://www.drmaciver.com/2013/09/towards-a-more-perfect-democracy/). There’s a lot of questions around lottery voting and he gives quite great responses to various critiques: whether it is easy to game, whether people would understand it & how it affects elected officials. It’s a great summary & run-down on the benefits of lottery voting.
 
