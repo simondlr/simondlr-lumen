@@ -25,7 +25,7 @@ Today, electoral systems can be costly, corruptible, underrepresented, and prone
 
 Various proposals have been put forth that removes some of these issues by focusing on introducing randomness. To quote David Chaum & his proposals on random sample voting, it can result in:
 
-> “…(a) high effective voter turnout, (b) better informed voters rationally motivated to delve into issues, (c) increased effectiveness of results in shaping governance, (d) improved resistance to manipulation through advertising/campaigning, (e) increased indisputability and trustworthiness of results, (f) anonymity of voters with unsaleable votes, (g) reduced opportunity for selective denial of voter access, (h) voter fraud only through improper voter rolls, (i) equivalent but safer decisiveness, and all with (j) significantly reduced direct and overall cost.”
+_“…(a) high effective voter turnout, (b) better informed voters rationally motivated to delve into issues, (c) increased effectiveness of results in shaping governance, (d) improved resistance to manipulation through advertising/campaigning, (e) increased indisputability and trustworthiness of results, (f) anonymity of voters with unsaleable votes, (g) reduced opportunity for selective denial of voter access, (h) voter fraud only through improper voter rolls, (i) equivalent but safer decisiveness, and all with (j) significantly reduced direct and overall cost.”_
 
 Let's roll some dice and dig in.
 
@@ -35,11 +35,9 @@ Randomness in our electoral systems is not new. Athenians used a system called s
 
 The great Aristotle said:
 
->   “Democracy arose from the idea that those who are equal in any respect are equal absolutely. All are alike free, therefore they claim that all are free absolutely... The next is when the democrats, on the grounds that they are all equal, claim equal participation in everything.
->
-> It is accepted as democratic when public offices are allocated by lot; and as oligarchic when they are filled by election.”
+  _“Democracy arose from the idea that those who are equal in any respect are equal absolutely. All are alike free, therefore they claim that all are free absolutely... The next is when the democrats, on the grounds that they are all equal, claim equal participation in everything.It is accepted as democratic when public offices are allocated by lot; and as oligarchic when they are filled by election.”_
 
-Such wow.
+Such wow. The other Doge of Venice.
 
 ![](/media/dogeofvenice.jpg "In another timeline...")
 
@@ -73,7 +71,7 @@ With random sample voting, a society can not only more regularly poll its citize
 
 Amongst these benefits, the paper also claims that random sample voting adds a host of other benefits to society:
 
-> “…(a) high effective voter turnout, (b) better informed voters rationally motivated to delve into issues, (c) increased effectiveness of results in shaping governance, (d) improved resistance to manipulation through advertising/campaigning, (e) increased indisputability and trustworthiness of results, (f) anonymity of voters with unsaleable votes, (g) reduced opportunity for selective denial of voter access, (h) voter fraud only through improper voter rolls, (i) equivalent but safer decisiveness, and all with (j) significantly reduced direct and overall cost.”
+_“…(a) high effective voter turnout, (b) better informed voters rationally motivated to delve into issues, (c) increased effectiveness of results in shaping governance, (d) improved resistance to manipulation through advertising/campaigning, (e) increased indisputability and trustworthiness of results, (f) anonymity of voters with unsaleable votes, (g) reduced opportunity for selective denial of voter access, (h) voter fraud only through improper voter rolls, (i) equivalent but safer decisiveness, and all with (j) significantly reduced direct and overall cost."_
 
 The paper goes into more detail how it will technically work, how randomness is done, how to avoid voter coercion and so forth. Admittedly, although novel, it feels like the necessary technicality required makes it tougher to implement.
 
@@ -98,6 +96,8 @@ I see potential issues around legitimacy (consent of the governed) & the unexpec
 **Legitimacy**
 
 Randomness has formed part of historical electoral systems. The Athenians used a Rube Golderg kleroterion for sortition, and the Doge of Venice were selected through a process that included choosing the first boy they see at a specific time & place to draw lots. Although these choices seem a bit bizarre, my hunch is, is that in the era of fake news, a modern electorate might push back on the use of randomness in legislative elections. 
+
+A Kleroterion
 
 ![](/media/kleroterion.jpeg "A Kleroterion")
 
