@@ -50,9 +50,9 @@ In order to experiment with this new design, I launched my own version: an artwo
 
 ![](/media/1_pnylznii6spyxj6j9s0tkq.png)
 
-It launched at the end of March 2019 for a price of zero dollars. It was bought and sold at \~ $40, $16,000 and is now priced at roughly \~ $60,000 (after a high of ~ $120,000). The current owner has held it for more than 2 months.
+It launched at the end of March 2019 for a price of zero dollars. It was bought and sold at $40, $16,000 and is now priced at roughly $60,000 (after a high of $120,000). The current owner has held it for more than 2 months.
 
-During this period, as the artist, I have earned 5.8 ETH as patronage (currently valued at roughly ~ $1,500).
+During this period, as the artist, I have earned 5.8 ETH as patronage (currently valued at roughly $1,500).
 
 Anyone can currently buy this artwork from the current owner with ETH.
 
