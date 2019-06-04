@@ -5,10 +5,11 @@ slug: patronage-as-an-asset-class
 draft: false
 date: 2019-06-04T14:39:33.839Z
 description: >-
-  By combing the incentives of patronage, profit & collectibles, we can create a
-  new tradable asset class that supports the funding of the commons. In addition
-  to supporting artists and open source communities, this idea can be utilized
-  to save our fragile planet from the ongoing effects of climate change.
+  By combining the incentives of patronage, profit & collectibles, we can create
+  a new tradable asset class that supports the funding of the commons. In
+  addition to supporting artists and open source communities, this idea can be
+  utilized to save our fragile planet from the ongoing effects of climate
+  change.
 category: IDEAS
 tags:
   - blockchain
@@ -16,7 +17,7 @@ tags:
   - patronage
   - collectible
 ---
-By combing the incentives of patronage, profit & collectibles, we can create a new tradable asset class that supports the funding of the commons. In addition to supporting artists and open source communities, this idea can be utilized to save our fragile planet from the ongoing effects of climate change.
+By combining the incentives of patronage, profit & collectibles, we can create a new tradable asset class that supports the funding of the commons. In addition to supporting artists and open source communities, this idea can be utilized to save our fragile planet from the ongoing effects of climate change.
 
 Through the usage of Radical Markets' designed ["Common Ownership Self-Assessed Tax" (COST)](https://blog.simondlr.com/harberger-tax-and-the-blockchain) on virtual, collectible assets of patronage, participants can simultaneously:
 
