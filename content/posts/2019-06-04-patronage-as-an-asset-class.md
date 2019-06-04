@@ -32,7 +32,7 @@ The owner cannot readily set an exorbitantly high-price, because they must pay p
 
 If they cannot pay this patronage fee, then the virtual collectible is destroyed or foreclosed, the latter which allows a new owner to take ownership of the collectible at a price of zero.
 
-For example, if someone owns a virtual, collectible water-bottle that funds a water charity, and prices it at $100, they have to pay $5 per year to this water charity. This is all automated through the blockchain. If they hold it for only for one day before it gets bought by a new owner, then the total they would have paid is only $0.013. The blockchain automatically records the amount of time the owners supported the project, alongside the total they gave to it whilst they were an owner.
+For example, if someone owns a virtual, collectible water-bottle that funds a water charity, and prices it at \$100, they have to pay \$5 per year to this water charity. This is all automated through the blockchain. If they hold it for only for one day before it gets bought by a new owner, then the total they would have paid is only \$0.013. The blockchain automatically records the amount of time the owners supported the project, alongside the total they gave to it whilst they were an owner.
 
 This creates a leaderboard & global market for patronage, where supporters can rank themselves through their current & previous support for projects.
 
@@ -50,9 +50,9 @@ In order to experiment with this new design, I launched my own version: an artwo
 
 ![](/media/1_pnylznii6spyxj6j9s0tkq.png)
 
-It launched at the end of March 2019 for a price of zero dollars. It was bought and sold at $40, $16,000 and is now priced at roughly $60,000 (after a high of $120,000). The current owner has held it for more than 2 months.
+It launched at the end of March 2019 for a price of zero dollars. It was bought and sold at \$40, \$16,000 and is now priced at roughly \$60,000 (after a high of \$120,000). The current owner has held it for more than 2 months.
 
-During this period, as the artist, I have earned 5.8 ETH as patronage (currently valued at roughly $1,500).
+During this period, as the artist, I have earned 5.8 ETH as patronage (currently valued at roughly \$1,500).
 
 Anyone can currently buy this artwork from the current owner with ETH.
 
