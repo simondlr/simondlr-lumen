@@ -20,11 +20,9 @@ By combing the incentives of patronage, profit & collectibles, we can create a n
 
 Through the usage of Radical Markets' designed ["Common Ownership Self-Assessed Tax" (COST)](https://blog.simondlr.com/harberger-tax-and-the-blockchain) on virtual, collectible assets of patronage, participants can simultaneously:
 
-1) support their favourite projects.
-
-2) collect & earn status of patronage.
-
-3) earn a potential profit from trading their support.
+1. support their favourite projects.
+2. collect & earn status of patronage.
+3. earn a potential profit from trading their support.
 
 It works as follows:
 
@@ -52,31 +50,26 @@ In order to experiment with this new design, I launched my own version: an artwo
 
 ![](/media/1_pnylznii6spyxj6j9s0tkq.png)
 
-It launched at the end of March 2019 for a price of zero dollars. It was bought and sold at \~$40, $16,000 and is now priced at roughly \~$60,000 (after a high of ~$120,000). The current owner has held it for more than 2 months.
+It launched at the end of March 2019 for a price of zero dollars. It was bought and sold at \~ $40, $16,000 and is now priced at roughly \~ $60,000 (after a high of ~ $120,000). The current owner has held it for more than 2 months.
 
-During this period, as the artist, I have earned 5.8 ETH as patronage (currently valued at roughly ~$1,500).
+During this period, as the artist, I have earned 5.8 ETH as patronage (currently valued at roughly ~ $1,500).
 
 Anyone can currently buy this artwork from the current owner with ETH.
 
 Through this, the owner: 
 
-1) supports me as an artist.
-
-2) records their ownership and status as owner.
-
-3) can still sell at a profit at the current self-specified price.
+1. supports me as an artist.
+2. records their ownership and status as owner.
+3. can still sell at a profit at the current self-specified price.
 
 In this scenario, the artwork itself is the virtual collectible. However, it does not have to be restricted to artwork alone. It can be extended to other virtual collectibles surrounding the experience of the artist, such as a virtual, signed paint-brush or virtual, signed easel. 
 
 This can be extended to all other form of arts & creativity: 
 
-1) supporting an author through virtual collectibles from their fantasy writing (eg a virtual Orc axe).
-
-2) supporting a musician through a virtual, collectible badge or virtual, collectible melody.
-
-3) supporting a game developer through a virtual collectible from the game (that could even potentially have an aura in the game itself, showing patronage).
-
-4) supporting an open source project through virtual, collectibles that represent popular releases (eg, a version 2.0.0 collectible).
+1. supporting an author through virtual collectibles from their fantasy writing (eg a virtual Orc axe).
+2. supporting a musician through a virtual, collectible badge or virtual, collectible melody.
+3. supporting a game developer through a virtual collectible from the game (that could even potentially have an aura in the game itself, showing patronage).
+4. supporting an open source project through virtual, collectibles that represent popular releases (eg, a version 2.0.0 collectible).
 
 Throughout all of this support, individuals can earn potential profits by trading their support that they collect.
 
@@ -86,9 +79,8 @@ In the aftermath of the tragic Notre Dame fire, a few extremely wealthy patrons 
 
 What are they paying for? 
 
-1) Supporting an institution they support, the beautiful & historic legacy of the Notre Dame (support).
-
-2) Their names etched as supporters of its restoration (status).
+1. Supporting an institution they support, the beautiful & historic legacy of the Notre Dame (support).
+2. Their names etched as supporters of its restoration (status).
 
 As one might expect, access to an opportunity like this isn't exactly available to anyone. A Patronage Market for the Notre Dame could include thousands of collectible assets that represent it: from collecting the virtual spire, to collecting a virtual candle. Not only would more people be able to support, collect & have their names etched as supporters, the people that would've supported the Notre Dame before it burned down would likely have been able to sell their support at a profit (if they priced it correctly).
 
@@ -118,13 +110,10 @@ Along with Celeste Zumwalt, we are exploring partners who want to test this for 
 
 Throughout this development, I'm aiming to turn this into a generic smart contract architecture that would allow anyone to create such a patronage collectible: 
 
-1) Setting its name.
-
-2) Setting the image of the collectible.
-
-3) Setting the patron/s.
-
-4) Setting the patronage rate.
+1. Setting its name.
+2. Setting the image of the collectible.
+3. Setting the patron/s.
+4. Setting the patronage rate.
 
 If managed appropriately, this would allow a global market for patronage to exist along with a global leaderboard. It would be an open platform where anyone would be able to support their favourite projects, collect & display their past & current patronage, & trade their support.
 
