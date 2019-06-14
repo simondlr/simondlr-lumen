@@ -61,23 +61,23 @@ The available supply of collectibles in a collection would grow and shrink based
 
 The key goal here is that whenever a new collectible is put into circulation it must raise the value of the whole economy above and beyond the costs of its addition. As previously mentioned: it adds new cost to the economy through increasing the options (decreasing scarcity). If it brings in more value to the economy than just the value of the collectible, then it marginally was useful.
 
-Put another way: if the value of the new collectible is worth $1,000, but the negative cost to the economy is say -$2,000 because now there's too many collectibles, it shouldn't be brought into circulation. It's hard to measure the exact negative effects: however, by employing an automated market maker through a bonding curve, you can get aggregate market outcomes from individual desires to collect.
+Put another way: if the value of the new collectible is worth \$1,000, but the negative cost to the economy is say -\$2,000 because now there's too many collectibles, it shouldn't be brought into circulation. It's hard to measure the exact negative effects: however, by employing an automated market maker through a bonding curve, you can get aggregate market outcomes from individual desires to collect.
 
 **Here's how it works in practice.**
 
 Let's assume there's a collection of unique virtual collectibles for Harry Potter. The team behind it designs about 100 unique collectibles as a start. None of these are in circulation and collectors don't know what they are.
 
-When the economy starts, 5 unique collectibles are offered for sale (eg a wand, or a crazy candy). It costs $1 to buy one.
+When the economy starts, 5 unique collectibles are offered for sale (eg a wand, or a crazy candy). It costs \$1 to buy one.
 
-A collector comes and buys the virtual wand. That $1 now goes into a pool.
+A collector comes and buys the virtual wand. That \$1 now goes into a pool.
 
 A new collectible gets added such that there is always 5 new ones to buy. 
 
-The price automatically rises to $2. Another collector comes along and buys the crazy candy collectible.
+The price automatically rises to \$2. Another collector comes along and buys the crazy candy collectible.
 
-The next few collectors come along such that the 10th collectible is now worth $10 and is bought by the 10th collector. The collected money in the pot now stands at $55.
+The next few collectors come along such that the 10th collectible is now worth \$10 and is bought by the 10th collector. The collected money in the pot now stands at \$55.
 
-At any point if someone doesn't want their collectible anymore they can sell it back to economy. The price offered is the price for the previous collectible. Thus anyone could technically sell their collectible for $10 if they wanted to. If they choose to sell, this starts an auction, where-upon anyone can buy it from the current owner at that price. If no one wants it, this collectible is removed from circulation and the price goes down again. Whilst an auction exists, no one can buy a new collectible. If half the collectibles are sold and removed from circulation, then the price goes back down to $5. These collectors get some money back (either a profit or loss depending when they bought or sold).
+At any point if someone doesn't want their collectible anymore they can sell it back to economy. The price offered is the price for the previous collectible. Thus anyone could technically sell their collectible for \$10 if they wanted to. If they choose to sell, this starts an auction, where-upon anyone can buy it from the current owner at that price. If no one wants it, this collectible is removed from circulation and the price goes down again. Whilst an auction exists, no one can buy a new collectible. If half the collectibles are sold and removed from circulation, then the price goes back down to \$5. These collectors get some money back (either a profit or loss depending when they bought or sold).
 
 Thus: All the collectibles at certain points in the economy have a floor price. If a new collectible gets added into circulation, the price rises. This creates sell pressure on the current collectors. If they feel their collectible has risen in value enough, then they can choose to sell it, bringing the economy down a peg.
 
@@ -85,19 +85,19 @@ The important part is that when a new collectible joins the economy, whomever is
 
 Whatever 5 collectibles are available to buy at each stage in the economy needs to be such that people are willing to buy them. Whatever those 5 are can be determined in various ways: it can be random and never allowed to change. It can cycle/shift at regular intervals. OR, existing collectors can vote which should become available, adding a curation market.
 
-**The Missing $10 collectors?**
+**The Missing \$10 collectors?**
 
 In this case, there's a clear case for existing collectors to allow inflation of the collection. If someone wants to take a new collectible from the conveyor belt, it increases the value of everyone's pie.
 
 What this means, however, is that over time, all low-valued collectibles will be removed from circulation. If demand grows, then it will eventually represent a collection akin to a popular artist. All their works become worth a lot.
 
-This mechanism excludes the cohort of small-time $10-$100 collectors from the economy at the cost of maintaining scarcity. I feel there's more to explore here. Will keep introspecting.
+This mechanism excludes the cohort of small-time \$10-\$100 collectors from the economy at the cost of maintaining scarcity. I feel there's more to explore here. Will keep introspecting.
 
 **Adding Harberger Collectibles**
 
 I previously wrote about the creation of "[Patronage As An Asset Class](https://blog.simondlr.com/patronage-as-an-asset-class/)": using Harberger/COST ownership of collectibles. The linked blogpost contains information about Harberger Tax and how it works.
 
-In short: if you own a virtual collectible, you always have to specify a sale price. You can't set a very high price, like $100 billion, because you have to pay a percentage rate per year (eg 5%) to keep owning it towards a beneficiary of the collectible (eg, the creator).
+In short: if you own a virtual collectible, you always have to specify a sale price. You can't set a very high price, like \$100 billion, because you have to pay a percentage rate per year (eg 5%) to keep owning it towards a beneficiary of the collectible (eg, the creator).
 
 What I enjoy about them is that it increases turnover of the collectible: more will hold it over time, because it will be costly to exclude it from the economy. In addition, it generates two new signals: who holds it the longest (a sign of patronage) and how much was paid to beneficiary of the collectible.
 
@@ -119,4 +119,4 @@ This process can be automated with a new economy to generate and bring collectib
 
 By adding a harberger tax to the collectibles, the collectible creators can collect revenue to create more collectibles.
 
-PS: An interesting variant of this is available at [WrappedKitties](https://wrappedkitties.com/). You exchange a CryptoKitty for a new token ($WCK). You can then buy/sell these WCK tokens, allowing you to burn one to get a CryptoKitty in return.
+PS: An interesting variant of this is available at [WrappedKitties](https://wrappedkitties.com/). You exchange a CryptoKitty for a new token (\$WCK). You can then buy/sell these WCK tokens, allowing you to burn one to get a CryptoKitty in return.
