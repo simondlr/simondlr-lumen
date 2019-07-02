@@ -35,7 +35,7 @@ One of the outstanding questions in these patronage markets is the choice of rat
 
 In literature (https://academic.oup.com/jla/article/9/1/51/3572441), recommend Harberger taxes are quite low (closer to the expected turnover rate), because it's all for physical items where turnover is expensive, and investment into the assets is desirable (eg, renovating a home). Literature also makes a distinction in rates between assets that are prone to monopolistic exploitation, such as spectrum versus family heirlooms.
 
-Matthew Prewitt did great research towards thinking about intellectual property, delineating it into natural and artificial capital. https://medium.com/blockchannel/reimagining-property-fbce9d3832a4. The gist is, is that when people invent, the rates should be low to allow the inventor to exploit their ideas, before eventually accruing a tax rate closer to enabling the public's ability to exploit it too. A similar proposal of ratcheting rates was put forth by Arjun Narayan. https://ristret.com/s/ftmbkg/harberger_taxation_has_elegant
+Matthew Prewitt did great research towards thinking about intellectual property, delineating it into natural and artificial capital. https://medium.com/blockchannel/reimagining-property-fbce9d3832a4. The gist is, is that when people invent, the rates should be low to allow the inventor to exploit their ideas, before eventually accruing a tax rate closer to enabling the public's ability to exploit it too. [A similar proposal of ratcheting rates was put forth by Arjun Narayan](https://ristret.com/s/ftmbkg/harberger_taxation_has_elegant). 
 
 However, there's no research for virtual items. Virtual items would have quite broad uses. For example, virtual items that have use-value (eg, a digital blockchain sword in a game or a virtual piece of land in Decentraland) would have a lower turnover rate because someone actually wants to use it. Some of these virtual items might even have investment capabilities (upgrading with effects, aesthetics or new uses). In these realms, you still need to consider the trade-offs of Harberger Tax on users and the world. If people can corner a virtual land market, for example, then Harberger Tax helps. If the game developers seek novel funding, then for certain, scarcer items in the game, Harberger Tax can raise funds for the team and the virtual economy itself.
 
@@ -55,7 +55,7 @@ Too low prices (high tax rate), and traders lose their self-interested opportuni
 
 For \$100/year:
 
-0.01% tax -> Price: \$1,000,000
+0.01% tax -> Price: \$1,000,000   
 10,000% tax -> Price: \$1
 
 Thus: because for these collectibles, patronage being the primary purpose, higher rates are better. This is because it moves the needle towards the intended purpose: funding donations through a new market for self-interest. The money flows towards the charities at the end of the day. Too much angling towards profit for speculators and the positive externalities from trade becomes less.
