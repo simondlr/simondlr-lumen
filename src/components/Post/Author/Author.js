@@ -18,7 +18,7 @@ const Author = () => {
         >
           <strong>{author.name}</strong> on Twitter.
         </a><br />
-        Stay in touch with my newsletter! I only send updates on new content. <a href="https://upscri.be/94bbf3/">https://upscri.be/94bbf3/</a>
+        Receive all new content I publish to your inbox! Sign up for my newsletter. No spam. <a href="https://simondlr.substack.com/">https://simondlr.substack.com/</a>
       </p>
     </div>
   );

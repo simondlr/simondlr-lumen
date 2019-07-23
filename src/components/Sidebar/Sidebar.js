@@ -19,7 +19,7 @@ const Sidebar = ({ isIndex }: Props) => {
       <div className={styles['sidebar__inner']}>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
-        Stay in touch with my newsletter! Join 350+ others when I publish new content.. <a href="https://simondlr.substack.com/">https://simondlr.substack.com/</a><br />
+        Stay in touch with my newsletter! Join 350+ others when I publish new content. <a href="https://simondlr.substack.com/">https://simondlr.substack.com/</a><br />
         <br />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
