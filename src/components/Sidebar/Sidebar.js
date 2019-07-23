@@ -1,24 +1,25 @@
+// @flow
 import React from 'react';
-import { graphql, StaticQuery } from 'gatsby';
 import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
+import { useSiteMetadata } from '../../hooks';
 
-export const PureSidebar = ({ data, isIndex }) => {
-  const {
-    author,
-    copyright,
-    menu
-  } = data.site.siteMetadata;
+type Props = {
+  isIndex?: boolean,
+};
+
+const Sidebar = ({ isIndex }: Props) => {
+  const { author, copyright, menu } = useSiteMetadata();
 
   return (
     <div className={styles['sidebar']}>
       <div className={styles['sidebar__inner']}>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
-        Stay in touch with my newsletter! I only send updates on new content. <a href="https://upscri.be/94bbf3/">https://upscri.be/94bbf3/</a><br />
+        Stay in touch with my newsletter! Join 350+ others when I publish new content.. <a href="https://simondlr.substack.com/">https://simondlr.substack.com/</a><br />
         <br />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
@@ -26,35 +27,5 @@ export const PureSidebar = ({ data, isIndex }) => {
     </div>
   );
 };
-
-export const Sidebar = (props) => (
-  <StaticQuery
-    query={graphql`
-      query SidebarQuery {
-        site {
-          siteMetadata {
-            title
-            subtitle
-            copyright
-            menu {
-              label
-              path
-            }
-            author {
-              name
-              photo
-              bio
-              contacts {       
-                twitter
-                github
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={(data) => <PureSidebar {...props} data={data}/>}
-  />
-);
 
 export default Sidebar;

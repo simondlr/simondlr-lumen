@@ -1,19 +1,20 @@
+// @flow
 import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Post from '../components/Post';
+import { useSiteMetadata } from '../hooks';
+import type { MarkdownRemark } from '../types';
 
-const PostTemplate = ({ data }) => {
-  const {
-    title: siteTitle,
-    subtitle: siteSubtitle
-  } = data.site.siteMetadata;
+type Props = {
+  data: {
+    markdownRemark: MarkdownRemark
+  }
+};
 
-  const {
-    title: postTitle,
-    description: postDescription
-  } = data.markdownRemark.frontmatter;
-
+const PostTemplate = ({ data }: Props) => {
+  const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
+  const { title: postTitle, description: postDescription } = data.markdownRemark.frontmatter;
   const metaDescription = postDescription !== null ? postDescription : siteSubtitle;
 
   return (
@@ -25,20 +26,6 @@ const PostTemplate = ({ data }) => {
 
 export const query = graphql`
   query PostBySlug($slug: String!) {
-    site {
-      siteMetadata {
-        author {
-          name
-          contacts {
-            twitter
-          }
-        }
-        disqusShortname
-        subtitle
-        title
-        url
-      }
-    }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
