@@ -11,6 +11,7 @@ const useSiteMetadata = () => {
             subtitle	
             copyright	
 	    disqusShortname
+	    url
             menu {	
               label	
               path	
