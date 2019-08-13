@@ -10,6 +10,7 @@ const useSiteMetadata = () => {
             title	
             subtitle	
             copyright	
+	    disqusShortname
             menu {	
               label	
               path	
