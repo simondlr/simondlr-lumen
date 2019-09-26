@@ -64,6 +64,8 @@ As you can see, the 'Ten' has to create an 'okay? what? where is this going?' fe
 
 "Finite players avoid surprise and try to plan around them, infinite players expect to be surprised and continue their play in pursuit of it."
 
+\---
+
 [Here's a stanza from a longer piece of Kishotenketsu that I enjoyed](https://rainbow09.tumblr.com/post/170013488514/the-kishotenketsu-struture-of-digimon-adventure).
 
 "The light of the full moon shines down,
@@ -74,19 +76,23 @@ When my lover sneaks in to visit me,
 
 I wish that the clouds would hide that light just a little."
 
+\---
+
 It ends by creating a sense of continuation. The light and the curiosity around this relationship.
 
 As described: 
 
 "What you do get is a clearer idea of what so far has been the implicit intent of the narrative, because this part exists to present the larger theme that has acted as gravitational center, attracting to itself all the blocks that until now have touched the heart of the question."
 
-"The structure of kishotenketsu rejects that notion, and the “conclusion” (ketsu) is actually set to throw the story into a continuum, sometimes even creating the illusion the exposition had no purpose.
+The structure of kishotenketsu rejects that notion, and the “conclusion” (ketsu) is actually set to throw the story into a continuum, sometimes even creating the illusion the exposition had no purpose.
 
 The goal of the author who resorts to this narrative structure isn’t to contend, nor is it to persuade the reader, but simply to encourage the reader to contemplate the fraction of the universe in display as an ocean of points of view gravitating around a given topic (Maynard, 1998). Not to establish one point of view above all others, but to show as many points of view as possible surrounding a given topic."
 
 It's lovely.
 
 Of course, I had to give it a go myself. A short piece of Kishotenketsu.
+
+\---
 
 **The Dancers by Simon de la Rouviere:**
 
@@ -106,19 +112,25 @@ Wax dripping from his life, he was back by the waves. The flames flicker & dance
 
 "A young girl is home alone for the first time with only her dog for company. Listening to the news, she hears of a killer on the loose in her neighborhood. Terrified, she locks all the doors and windows, but she forgets about the basement window and it is left unlocked. She goes to bed, taking her dog to her room with her and letting it sleep under her bed. She wakes in the night to hear a dripping sound coming from the bathroom. The dripping noise frightens her, but she is too scared to get out of bed and find out what it is. To reassure herself, she reaches a hand toward the floor for the dog and is rewarded by a reassuring lick on her hand. The next morning when she wakes, she goes to the bathroom for a drink of water only to find her dead, mutilated dog hanging in the shower with his blood slowly dripping onto the tiles. On the shower wall, written in the dog's blood, are the words "HUMANS CAN LICK, TOO."
 
+\---
+
 A variant describing the Kishotenketsu is written by the blog talking about Japanese horror:
 
-"Intro (起): A young girl is home alone with only her pet dog for comfort.
+"**Intro** (起): A young girl is home alone with only her pet dog for comfort.
 
-Development (承): She hears on the news of an escaped convict and becomes frightened. She is too scared to go to sleep without letting the dog lick her hand from beneath her bed.
+**Development** (承): She hears on the news of an escaped convict and becomes frightened. She is too scared to go to sleep without letting the dog lick her hand from beneath her bed.
 
-Twist (転): When she awakes she discovers that her dog is dead and has been the entire night.
+**Twist** (転): When she awakes she discovers that her dog is dead and has been the entire night.
 
-Conclusion (結): She finds the words “HUMANS CAN LICK TOO” written in blood."
+**Conclusion** (結): She finds the words “HUMANS CAN LICK TOO” written in blood."
+
+\---
 
 However, I don't entirely feel this is correct, because the 'Ten' isn't supposed to represent a reveal. This is more of a western twist. As the 'Ten' DOES relate to introduction and development. The 'Ketsu' should be the reveal from the turn/change.
 
 So: I attempted my own variation of the Licking Hand horror story into a Kishotenketsu structure.
+
+\---
 
 **Licked Hand (Kishotenketsu Remix) by Simon de la Rouviere.**
 
@@ -129,6 +141,8 @@ One day, he escapes from prison.
 A girl goes to sleep with a comforting lick from her dog sleeping under her bed.
 
 She wakes up to fur & blood smeared on her wall: HUMANS LICK TOO.
+
+\---
 
 1+2 is about introduction and development of the dog murdering prisoner.
 
@@ -141,6 +155,8 @@ She wakes up to fur & blood smeared on her wall: HUMANS LICK TOO.
 [Unlike what others have written](https://stilleatingoranges.tumblr.com/post/25153960313/the-significance-of-plot-without-conflict), it feels to me that Kishotenketsu doesn't necessarily exclude conflict IN characters, and that the two forms could be combined. Using kishotenketsu as narrative structure alongside character progression in 3 acts.
 
 The setup, confrontation and resolution can occur in any part of the kishotenketsu. I attempted one.
+
+\---
 
 **The Pup by Simon de la Rouviere:**
 
