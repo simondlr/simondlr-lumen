@@ -1,6 +1,6 @@
 ---
 template: post
-title: Storyelling Through Kishotenketsu And Knock Knock Jokes
+title: Storytelling Through Kishotenketsu And Knock Knock Jokes
 slug: kishotenketsu
 draft: false
 date: 2019-09-26T10:57:53.249Z
