@@ -12,7 +12,7 @@ type Props = {
   description?: string
 };
 
-const Layout = ({ children, title, siteUrl, pathname, description }: Props) => (
+const Layout = ({ children, title, siteUrl, pathname, description, location }: Props) => (
   <div className={styles.layout}>
     <Helmet>
       <html lang="en" />
@@ -21,7 +21,8 @@ const Layout = ({ children, title, siteUrl, pathname, description }: Props) => (
       <meta property="og:site_name" content={title} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={title} />
-      <meta name="twitter:image" content={`${siteUrl}${pathname}twitter-card.jpg`} />
+      <meta name="twitter:image" content={`${siteUrl}${location.pathname}twitter-card.jpg`} />
+
     </Helmet>
     {children}
   </div>
