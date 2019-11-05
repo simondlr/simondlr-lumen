@@ -8,11 +8,11 @@ type Props = {
   children: ReactNode,
   title: string,
   siteUrl: string,
-  pathname: string,
-  description?: string
+  description?: string,
+  pathname: string
 };
 
-const Layout = ({ children, title, siteUrl, pathname, description, location }: Props) => (
+const Layout = ({ children, title, siteUrl, description, pathname }: Props) => (
   <div className={styles.layout}>
     <Helmet>
       <html lang="en" />
@@ -21,7 +21,7 @@ const Layout = ({ children, title, siteUrl, pathname, description, location }: P
       <meta property="og:site_name" content={title} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={title} />
-      <meta name="twitter:image" content={`${siteUrl}${location.pathname}twitter-card.jpg`} />
+      <meta name="twitter:image" content={`${siteUrl}${pathname}twitter-card.jpg`} />
 
     </Helmet>
     {children}
