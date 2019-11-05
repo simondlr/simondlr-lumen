@@ -109,7 +109,7 @@ module.exports = {
                 // Currently only supports DejaVuSansCondensed
                 // More fonts coming soon!
                 font: "DejaVuSansCondensed",
-                color: "black", // black|white
+                color: "white", // black|white
                 size: 48, // 16|24|32|48|64
                 style: "bold", // normal|bold|italic
                 x: null, // Will default to xMargin
