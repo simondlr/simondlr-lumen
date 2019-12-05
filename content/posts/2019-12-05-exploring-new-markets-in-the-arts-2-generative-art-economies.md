@@ -39,7 +39,7 @@ Somewhere, in all the latent space of potential art, lies patterns that will mov
 
 We've seen how powerful AI and machine-learning can be for enlightening us: Professional 'Go' players spoke about AlphaGo as if it gifted us a new perspective.
 
-"[\[European champion] Fan Hui thought the move was rather odd. But then he saw its beauty. "It's not a human move. I've never seen a human play this move," he says. "So beautiful."](https://www.businessinsider.com/video-lee-se-dol-reaction-to-move-37-and-w102-vs-alphago-2016-3?IR=T)"
+"\[European champion] Fan Hui thought the move was rather odd. But then he saw its beauty. "[It's not a human move. I've never seen a human play this move](https://www.businessinsider.com/video-lee-se-dol-reaction-to-move-37-and-w102-vs-alphago-2016-3?IR=T)," he says. "So beautiful.""
 
 Holly Herndon, who co-created (along with Mat Dryhurst), an accompanying AI to create an album together (PROTO), discussed how one should see the advent of AI coming into creativity.
 
