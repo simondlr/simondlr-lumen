@@ -125,9 +125,9 @@ There are other components were individual pricing might not be possible and thu
 
 There's many ways to plug the components together.
 
-****[**Abraham.ai**](https://abraham.ai/)****
+**Abraham.ai**
 
-All of these components come together in a holy grail: a project called Abraham by Gene Kogan (creation of machine learning for artists ([ml4a](https://ml4a.github.io/))). In fact: this whole article is already being summarised by Gene, in his series: "Artist in the Cloud", [containing his own excellent literature review on all the aspects I mention in this article](https://medium.com/@genekogan/artist-in-the-cloud-8384824a75c7). 
+All of these components come together in a holy grail: a project called [Abraham](https://abraham.ai/) by Gene Kogan (creation of machine learning for artists ([ml4a](https://ml4a.github.io/))). In fact: this whole article is already being summarised by Gene, in his series: "Artist in the Cloud", [containing his own excellent literature review on all the aspects I mention in this article](https://medium.com/@genekogan/artist-in-the-cloud-8384824a75c7). 
 
 ![](/media/screenshot-2019-12-05-10.17.41.png)
 
