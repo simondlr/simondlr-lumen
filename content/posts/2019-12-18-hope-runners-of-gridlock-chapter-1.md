@@ -4,7 +4,7 @@ title: 'Hope Runners of Gridlock: CHAPTER 1'
 slug: hope-runners-of-gridlock-chapter-1
 draft: false
 date: 2019-12-18T09:43:15.699Z
-description: "All she wanted was to disappear along with the endless line of cars into the sunset. She would then know what happened to her father.\n\n“Flora?”\n\nThe shimmering river of cars lined up perfectly with the setting sun & made it seem like she could swim into that glowing orange portal on the horizon.\L\L On this solstice, every 5 years, Flora and the rest of the city of Gridlock would watch its newly crowned Hope Runner bravely  venture into the horizon, that unknown, to find answers about what happened to Earth and why they were alone."
+description: "All she wanted was to disappear along with the endless line of cars into the sunset. She would then know what happened to her father. The shimmering river of cars lined up perfectly with the setting sun & made it seem like she could swim into that glowing orange portal on the horizon.\L\L On this solstice, every 5 years, Flora and the rest of the city of Gridlock would watch its newly crowned Hope Runner bravely venture into the horizon, that unknown, to find answers about what happened to Earth and why they were alone."
 category: STORIES
 tags:
   - sci-fi
@@ -12,7 +12,9 @@ tags:
   - hope runners
   - beta
 ---
-(un-edited beta of draft one of Hope Runners of Gridlock)
+Here follows the un-edited beta of chapter one of draft one of "Hope Runners of Gridlock". The pdf version has substantially better formatting, so it's advised to read that.
+
+([pdf version with better formatting](https://www.dropbox.com/s/hh49dllrpm177fv/chapter1_draft_one_20191218.pdf?dl=0))
 
 \---
 
