@@ -28,6 +28,8 @@ Short Stories: https://stories.simondlr.com/
 
 Wrote two book drafts about blockchain technology in 2014/2015, but never published it. Still available to read online: https://github.com/simondlr/computingcommons
 
+Writing a novel: Hope Runners of Gridlock. Coming in 2020.
+
 ### I make music.
 
 Generally electro-pop.
