@@ -27,7 +27,7 @@ In a series of posts, I will explore three broad avenues that currently interest
 
 * [Experimenting with Property Rights.](https://blog.simondlr.com/new-markets-in-the-arts-property-rights)
 * Generative Art Economies.
-* Markets _as_ Medium. (still to write)
+* [Markets _as_ Medium](https://blog.simondlr.com/new-markets-in-the-arts-markets-as-medium).
 
 This is article #2.
 
