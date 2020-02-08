@@ -28,9 +28,9 @@ In a series of posts, I will explore three broad avenues that currently interest
 
 \- Experimenting with Property Rights.
 
-\- Generative Art Economies.
+\- [Generative Art Economies](https://blog.simondlr.com/new-markets-in-the-arts-generative-art-economies).
 
-\- Markets \*as\* Medium.
+\- [Markets \*as\* Medium.](https://blog.simondlr.com/new-markets-in-the-arts-markets-as-medium)
 
 This is article #1.
 
@@ -42,7 +42,7 @@ To determine where this line is, is arbitrary. Why is 50 - 100 years after death
 
 Amongst a set of proposals in 'Radical Markets' (mechanism designs to inspire social change), is the adoption of Common Ownership Self-Assessed Tax (COST) on certain assets in society. [It is more commonly known as Harberger tax, after the economist, Arnold Harberger, that initially proposed it](https://blog.simondlr.com/harberger-tax-and-the-blockchain).
 
-In short: For a specific asset, the owner ALWAYS have to specify a sale price. It can be bought at any time. They can't specify an exclusionary price such as \$5 billion, because the owners have to pay a percentage tax on it. 
+In short: For a specific asset, the owner ALWAYS have to specify a sale price. It can be bought at any time. They can't specify an exclusionary price such as $5 billion, because the owners have to pay a percentage tax on it. 
 
 What's interesting about this model is that it results in more allocative efficiency: people that want it, can more readily own it. It is not however with its trade-offs, and thus, the underwritten goal of this property regime is to satisfy the maxim: "...ought to be owned in the commons." Not every asset should be handled in this manner.
 
@@ -60,7 +60,7 @@ Choosing where this revenue/tax goes is part of what makes this an interesting i
 
 This is in contrast to existing projects out there that support secondary sales still funding the artist with each sale (like [SuperRare](https://superrare.co/)). Instead of liquidity events happening per sale, the artist earns perpetually.
 
-It is with that idea that I created the art project: "[This Artwork Is Always On Sale](https://thisartworkisalwaysonsale.com/)" (2019). It is a  digital art piece that is ownable on the Ethereum blockchain, whereupon the owner always have to specify a sale price. 5% pa of this price goes towards me. Every few seconds, I earn a few dollars. It is currently valued at roughly \~\$45,000. Over the course of 8 months since it has been live, I've earned \~11 ETH (~\$2100 at current rates).
+It is with that idea that I created the art project: "[This Artwork Is Always On Sale](https://thisartworkisalwaysonsale.com/)" (2019). It is a  digital art piece that is ownable on the Ethereum blockchain, whereupon the owner always have to specify a sale price. 5% pa of this price goes towards me. Every few seconds, I earn a few dollars. It is currently valued at roughly \~$45,000. Over the course of 8 months since it has been live, I've earned \~11 ETH (~$2100 at current rates).
 
 ![](/media/1_pnylznii6spyxj6j9s0tkq.png)
 
