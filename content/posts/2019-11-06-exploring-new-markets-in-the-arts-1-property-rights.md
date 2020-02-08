@@ -60,7 +60,7 @@ Choosing where this revenue/tax goes is part of what makes this an interesting i
 
 This is in contrast to existing projects out there that support secondary sales still funding the artist with each sale (like [SuperRare](https://superrare.co/)). Instead of liquidity events happening per sale, the artist earns perpetually.
 
-It is with that idea that I created the art project: "[This Artwork Is Always On Sale](https://thisartworkisalwaysonsale.com/)" (2019). It is a  digital art piece that is ownable on the Ethereum blockchain, whereupon the owner always have to specify a sale price. 5% pa of this price goes towards me. Every few seconds, I earn a few dollars. It is currently valued at roughly \~$45,000. Over the course of 8 months since it has been live, I've earned \~11 ETH (~$2100 at current rates).
+It is with that idea that I created the art project: "[This Artwork Is Always On Sale](https://thisartworkisalwaysonsale.com/)" (2019). It is a  digital art piece that is ownable on the Ethereum blockchain, whereupon the owner always have to specify a sale price. 5% pa of this price goes towards me. Every few seconds, I earn a few dollars. It is currently valued at roughly \~$45,000. Over the course of 8 months since it has been live, I've earned \~11 ETH (\~$2100 at current rates).
 
 ![](/media/1_pnylznii6spyxj6j9s0tkq.png)
 
